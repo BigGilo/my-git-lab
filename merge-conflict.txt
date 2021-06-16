@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "Hello Pouet World!"
 New line
 NewNewLine
+=======
+"Hello World war!"
+>>>>>>> 35ad84b145819dd58d0f26156a4331c9e31db969
